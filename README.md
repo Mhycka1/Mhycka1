@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on school projects :')<br>👯 I’m looking to collaborate on anything interesting you would trust me not to break<br>🤝 I’m looking for help with building larger scale projects <br>🌱 I’m currently learning how to build an implement machine learning models within apps and websites<br>💬 Ask me about my cybersecurity research<br>⚡ Fun fact: I'm more proficient in cybersecurity scripting than anything else
+💻 I’m currently working on school projects :')<br>👓 I’m looking to collaborate on anything interesting you would trust me not to break<br>🤝 I’m looking for help with building larger scale projects <br>📖 I’m currently learning how to build an implement machine learning models within apps and websites<br>💬 Ask me about my cybersecurity research<br>⚡ Fun fact: I'm more proficient in cybersecurity scripting than anything else
 
 
 ## 🌐 Socials:
