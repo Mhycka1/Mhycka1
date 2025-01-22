@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently trying to consistently touch grass<br>👓 I’m looking to collaborate on anything interesting you would trust me not to break<br>🤝 I’m looking for help with building larger scale projects <br>📖 I’m currently learning how to build an implement machine learning models within apps and websites<br>💬 Ask me about my cybersecurity research<br>⚡ Fun fact: My feet are exactly 12 inches long and I use them as a ruler sometimes<br> &emsp; This is not relevant to anything else here because it is a fun fact
+💻 I’m currently trying to consistently touch grass<br>👓 I’m looking to collaborate on anything interesting you would trust me not to break<br>🤝 I’m looking for help with building larger scale projects <br>📖 I’m currently learning how to build an implement machine learning models within apps and websites<br>💬 Ask me about my cybersecurity research<br>⚡ Fun fact: My feet are exactly 12 inches long and I use them as a ruler sometimes<br> &emsp; &nbsp; This is not relevant to anything else here because it is a fun fact
 
 
 ## 🌐 Socials:
